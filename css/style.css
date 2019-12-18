@@ -1,0 +1,14 @@
+:Root, html, body {
+  padding: 0;
+  margin: 0;
+  display: block;
+}
+
+body {
+  background: rgb(243, 248, 250);
+  color: rgb(53, 44, 44);
+}
+
+.header_class {
+  text-align: center;
+}
