@@ -11,21 +11,26 @@ body {
 }
 
 header.header_class {
-  padding: 1rem;
+  padding: 0.4rem;
   text-align: center;
   background: red;
 }
 
 h1.h1_class {
-  font-size: 5rem;
+  font-size: 3rem;
   color: white;
 }
 
 main.main_class {
-  padding: 3rem 0 3rem 0;
+  padding: 5rem 4rem;
   display: flex;
 }
 
 main.main_class > img {
   max-width: 50%;
+}
+
+main.main_class > article {
+  font-size: 1.4rem;
+  font-weight: 700;
 }
